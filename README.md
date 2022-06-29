@@ -12,6 +12,6 @@
   - Git & Vim Command 
 
      
-     @ [20220628](https://github.com/froggy1014/TIL/blob/main/TIL/220629.md)
+     @ [220629](https://github.com/froggy1014/TIL/blob/main/TIL/220629.md)
  
 
