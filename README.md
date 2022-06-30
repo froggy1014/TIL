@@ -4,14 +4,10 @@
 
 <br>
 
-###  [1주차] HTML & CSS & Git basic
+###  [1주차] June 29 ~ July 2
 
 <br>
-
-  - 기본 상식 및 HTML, CSS 속성
-  - Git & Vim Command 
-
      
-     @ [220629](https://github.com/froggy1014/TIL/blob/main/TIL/220629.md)
+@ [220629](https://github.com/froggy1014/TIL/blob/main/TIL/220629.md)
  
-
+@ [220630](https://github.com/froggy1014/TIL/blob/main/TIL/220630.md)
